@@ -11,7 +11,7 @@ import hashlib
 import ssl
 
 # ---------------------- 配置 ----------------------
-GEMINI_API_KEY = "AIzaSyCNVUA07VPfhHfKQk3DxDL8N3bCQXJyYIM"
+GEMINI_API_KEY = ""
 RSS_FILENAME = "site_full_rss.xml"
 LOCAL_RSS_URL = "http://localhost:8000/rss"
 MAX_PAGES = 500
@@ -304,4 +304,5 @@ def main():
     webview.start(gui='edgechromium')
 
 if __name__=="__main__":
+
     main()
