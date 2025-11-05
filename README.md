@@ -244,7 +244,5 @@
 
 <hr>
 
-<p><strong>Enjoy your personal RSS world! ✨</strong></p>
-
 </body>
 </html>
