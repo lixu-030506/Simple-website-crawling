@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>测试RSS</title><link>https://example.com</link><description>这是一个测试RSS</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Wed, 05 Nov 2025 03:18:07 +0000</lastBuildDate><item><title>测试文章</title><link>https://example.com</link><description>正文内容</description></item></channel></rss>
