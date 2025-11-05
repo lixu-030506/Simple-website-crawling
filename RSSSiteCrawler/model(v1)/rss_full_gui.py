@@ -12,7 +12,7 @@ warnings.filterwarnings("ignore", category=UserWarning)
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 # ---------------------- 配置 ----------------------
-GEMINI_API_KEY = "AIzaSyCNVUA07VPfhHfKQk3DxDL8N3bCQXJyYIM"
+GEMINI_API_KEY = ""
 MAX_PAGES = 500
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -275,4 +275,5 @@ def main():
     webview.start(gui='edgechromium')
 
 if __name__ == "__main__":
+
     main()
