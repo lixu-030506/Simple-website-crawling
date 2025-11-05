@@ -8,7 +8,7 @@ import webview
 import json
 
 # ---------------------- 配置 ----------------------
-GEMINI_API_KEY = "AIzaSyCNVUA07VPfhHfKQk3DxDL8N3bCQXJyYIM"
+GEMINI_API_KEY = ""
 MAX_PAGES = 500
 
 # ---------------------- 全局状态 ----------------------
@@ -243,4 +243,5 @@ def main():
     webview.start(gui='edgechromium')
 
 if __name__ == "__main__":
+
     main()
