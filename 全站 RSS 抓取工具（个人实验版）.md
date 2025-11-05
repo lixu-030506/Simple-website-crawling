@@ -1,24 +1,4 @@
 <!DOCTYPE html>
-
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>全站 RSS 抓取工具（个人实验版）</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1, h2 { color: #333; }
-        table { border-collapse: collapse; width: 100%; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #f2f2f2; }
-        code { background-color: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-        pre { background-color: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto; }
-        ul { list-style-type: none; }
-        hr { border: 0; height: 1px; background: #ddd; }
-    </style>
-</head>
-<body>
-
 <h1>📰 全站 RSS 抓取工具（个人实验版）</h1>
 
 <p><strong>版本</strong>： <code>model(v2)</code><br>
